@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Soumit-Das/Summary_card/master/profile-summary-card-output/cobalt2/4-productive-time.svg)
+```
+
+    
